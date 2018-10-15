@@ -1,0 +1,8 @@
+Date of service: Mon Oct 08 21:23:28 2018
+
+Service type: Rabies
+Animal and Owner Information
+============================
+Cat Name: Mia
+Owner Name: James
+
