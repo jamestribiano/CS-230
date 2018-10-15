@@ -1,3 +1,7 @@
+*/
+ Thanks to sschatz1997 for helping make the print all text to file 
+ and read all text from file to the program functions.       
+*/
 #include <cstdlib>
 #include <stdlib.h>
 #include <fstream>
