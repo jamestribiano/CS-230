@@ -1,0 +1,10 @@
+Item Name: 
+a
+ItemID: 
+0
+Price for this item: 
+2
+Remaining Stock: 
+3
+Do we need another delivery: 
+yes
